@@ -1,0 +1,6 @@
+@Wms_clone_HostAddress = http://localhost:5159
+
+GET {{Wms_clone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
