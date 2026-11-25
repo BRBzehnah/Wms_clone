@@ -4,9 +4,11 @@ namespace Wms_clone.Data.Models
 {
     public class User
     {
-        public uint Id { get; set; }
-        public string Name { get; set; } = String.Empty;
-        public string Surname { get; set; } = String.Empty;
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public string? Surname { get; set; }
+        public string Login { get; set; } = null!;
+        public string Password { get; set; } = null!;
         public Role Role { get; set; }
     }
 }

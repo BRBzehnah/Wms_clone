@@ -4,13 +4,13 @@ namespace Wms_clone.Data.Models
 {
     public class Product : ICommonObject
     {
-        public uint Id { get; set; }
-        public string Name { get; set; } = String.Empty;
-        public string Description { get; set; } = String.Empty;
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public string? Description { get; set; }
+        public string Barcode { get; set; } = null!;
         public byte[] Photo { get; set; } = new byte[0];
         public Uom Unit { get; set; }
         public Category? Category { get; set; }
-        public int Quantity { get; set; }
-
+        public List<StockItem> StockItems { get; set; } = new();
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wms_clone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9ee084bb2b6213d27d9d51c1b170b71f189e3a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wms_clone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wms_clone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

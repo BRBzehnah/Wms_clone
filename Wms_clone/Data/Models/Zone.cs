@@ -4,9 +4,10 @@ namespace Wms_clone.Data.Models
 {
     public class Zone : ICommonObject
     {
-        public uint Id { get; set; }
-        public string Name { get; set; } = String.Empty;
-        public string Description { get; set; } = String.Empty;
-        public List<Cell> Cells { get; set; } = new List<Cell>();
+        public int Id { get; set; }
+        public string Name { get; set; } = null!;
+        public string? Description { get; set; }
+        public Warehouse Warehouse { get; set; } = null!;
+        public List<Cell> Cells { get; set; } = new();
     }
 }

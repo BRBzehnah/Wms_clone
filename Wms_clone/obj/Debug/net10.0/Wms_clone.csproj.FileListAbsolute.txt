@@ -121,3 +121,4 @@ C:\Users\obvin\Desktop\Wms_clone\Wms_clone\obj\Debug\net10.0\refint\Wms_clone.dl
 C:\Users\obvin\Desktop\Wms_clone\Wms_clone\obj\Debug\net10.0\Wms_clone.pdb
 C:\Users\obvin\Desktop\Wms_clone\Wms_clone\obj\Debug\net10.0\Wms_clone.genruntimeconfig.cache
 C:\Users\obvin\Desktop\Wms_clone\Wms_clone\obj\Debug\net10.0\ref\Wms_clone.dll
+C:\Users\obvin\Desktop\Wms_clone\Wms_clone\obj\Debug\net10.0\Wms_clone.sourcelink.json

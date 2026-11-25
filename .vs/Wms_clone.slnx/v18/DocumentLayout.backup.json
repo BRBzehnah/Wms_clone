@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\obvin\\Desktop\\Wms_clone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +23,48 @@
       "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\cell.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\wms_clone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\wms_clone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\stockitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\uom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\uom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\stockmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\ordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\ordertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\operationtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\icommonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\icommonobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\data\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\data\\models\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|c:\\users\\obvin\\desktop\\wms_clone\\wms_clone\\datamodel\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B23778-5F6A-8E05-F86C-915BAD552AAB}|Wms_clone\\Wms_clone.csproj|solutionrelative:wms_clone\\datamodel\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +74,214 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20261125112428_DbUpdate1.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs",
+              "RelativeToolTip": "Wms_clone\\Migrations\\20261125112428_DbUpdate1.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T11:24:28.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\appsettings.json",
+              "RelativeDocumentMoniker": "Wms_clone\\appsettings.json",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\appsettings.json",
+              "RelativeToolTip": "Wms_clone\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-11-25T11:02:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Zone.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Zone.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Zone.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\Zone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T11:30:53.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Product.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T11:11:37.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Category.cs",
               "RelativeDocumentMoniker": "Wms_clone\\DataModel\\Category.cs",
               "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Category.cs",
               "RelativeToolTip": "Wms_clone\\DataModel\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T12:19:27.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\appsettings.json",
-              "RelativeDocumentMoniker": "Wms_clone\\appsettings.json",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\appsettings.json",
-              "RelativeToolTip": "Wms_clone\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-11-09T12:04:02.232Z",
+              "DocumentIndex": 4,
+              "Title": "Cell.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Cell.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Cell.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Cell.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\Cell.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T11:12:45.006Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
+              "Title": "StockItem.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\StockItem.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\StockItem.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\StockItem.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\StockItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T10:26:50.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockMovement.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\StockMovement.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\StockMovement.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\StockMovement.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\StockMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T10:36:51.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\User.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T12:23:39.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Warehouse.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\Warehouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-25T10:41:26.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Wms_clone\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\AppDbContext.cs",
               "RelativeToolTip": "Wms_clone\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T11:57:58.781Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Wms_clone",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Wms_clone.csproj",
-              "RelativeDocumentMoniker": "Wms_clone\\Wms_clone.csproj",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Wms_clone.csproj",
-              "RelativeToolTip": "Wms_clone\\Wms_clone.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-11-09T11:52:46.83Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\User.cs",
-              "RelativeToolTip": "Wms_clone\\Data\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:44:13.815Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Role.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\DataModel\\Role.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Role.cs",
-              "RelativeToolTip": "Wms_clone\\DataModel\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:43:13.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Uom.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Uom.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\DataModel\\Uom.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Uom.cs",
-              "RelativeToolTip": "Wms_clone\\DataModel\\Uom.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:37:42.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Program.cs",
               "RelativeDocumentMoniker": "Wms_clone\\Program.cs",
               "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Program.cs",
               "RelativeToolTip": "Wms_clone\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-09T11:33:15.421Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Warehouse.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Warehouse.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Warehouse.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Warehouse.cs",
-              "RelativeToolTip": "Wms_clone\\Data\\Models\\Warehouse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "OrderTask.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\OrderTask.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\OrderTask.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\OrderTask.cs",
+              "RelativeToolTip": "Wms_clone\\Data\\Models\\OrderTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:36:07.563Z",
+              "WhenOpened": "2026-11-21T10:58:47.076Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Product.cs*",
-              "RelativeToolTip": "Wms_clone\\Data\\Models\\Product.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "OperationType.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\OperationType.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\DataModel\\OperationType.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\OperationType.cs",
+              "RelativeToolTip": "Wms_clone\\DataModel\\OperationType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:35:43.92Z",
+              "WhenOpened": "2026-11-21T10:37:33.061Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "ICommonObject.cs",
               "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\ICommonObject.cs",
               "RelativeDocumentMoniker": "Wms_clone\\DataModel\\ICommonObject.cs",
               "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\ICommonObject.cs",
               "RelativeToolTip": "Wms_clone\\DataModel\\ICommonObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:37:25.929Z",
+              "WhenOpened": "2026-11-25T10:25:18.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Zone.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Zone.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Zone.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Zone.cs",
-              "RelativeToolTip": "Wms_clone\\Data\\Models\\Zone.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Status.cs",
+              "RelativeDocumentMoniker": "Wms_clone\\DataModel\\Status.cs",
+              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\DataModel\\Status.cs",
+              "RelativeToolTip": "Wms_clone\\DataModel\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:36:25.065Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Cell.cs",
-              "DocumentMoniker": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Cell.cs",
-              "RelativeDocumentMoniker": "Wms_clone\\Data\\Models\\Cell.cs",
-              "ToolTip": "C:\\Users\\obvin\\Desktop\\Wms_clone\\Wms_clone\\Data\\Models\\Cell.cs",
-              "RelativeToolTip": "Wms_clone\\Data\\Models\\Cell.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-09T11:35:18.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-21T11:00:30.477Z"
             }
           ]
         }
